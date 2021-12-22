@@ -22,11 +22,14 @@ steps:
     restoreSolution: '$(solution)'
 
 - task: VSBuild@1
+  displayName: 'Build'
   inputs:
-    solution: '$(solution)'
-    msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactStagingDirectory)"'
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+    solution: '**\*.sln'
+    vsVersion: '17.0'
+    clean: true
+    configuration: release
+    msbuildArchitecture: 'x64'   
+    
 
 - task: VSTest@2
   inputs:
