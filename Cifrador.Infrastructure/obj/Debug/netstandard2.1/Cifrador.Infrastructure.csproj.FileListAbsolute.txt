@@ -1,0 +1,13 @@
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\obj\Debug\netstandard2.1\Cifrador.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\obj\Debug\netstandard2.1\Cifrador.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\obj\Debug\netstandard2.1\Cifrador.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\obj\Debug\netstandard2.1\Cifrador.Infrastructure.AssemblyInfo.cs
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\obj\Debug\netstandard2.1\Cifrador.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\bin\Debug\netstandard2.1\Cifrador.Infrastructure.deps.json
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\bin\Debug\netstandard2.1\Cifrador.Infrastructure.dll
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\bin\Debug\netstandard2.1\Cifrador.Infrastructure.pdb
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\bin\Debug\netstandard2.1\Cifrador.Domain.dll
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\bin\Debug\netstandard2.1\Cifrador.Domain.pdb
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\obj\Debug\netstandard2.1\Cifrador.Infrastructure.csproj.CopyComplete
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\obj\Debug\netstandard2.1\Cifrador.Infrastructure.dll
+C:\Users\desar\source\repos\Cifrador\Cifrador.Infrastructure\obj\Debug\netstandard2.1\Cifrador.Infrastructure.pdb

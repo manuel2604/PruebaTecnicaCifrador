@@ -1,0 +1,10 @@
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\bin\Debug\netstandard2.1\Cifrador.Domain.deps.json
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\bin\Debug\netstandard2.1\Cifrador.Domain.dll
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\bin\Debug\netstandard2.1\Cifrador.Domain.pdb
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\obj\Debug\netstandard2.1\Cifrador.Domain.csproj.AssemblyReference.cache
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\obj\Debug\netstandard2.1\Cifrador.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\obj\Debug\netstandard2.1\Cifrador.Domain.AssemblyInfoInputs.cache
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\obj\Debug\netstandard2.1\Cifrador.Domain.AssemblyInfo.cs
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\obj\Debug\netstandard2.1\Cifrador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\obj\Debug\netstandard2.1\Cifrador.Domain.dll
+C:\Users\desar\source\repos\Cifrador\Cifrador.Domain\obj\Debug\netstandard2.1\Cifrador.Domain.pdb
