@@ -32,7 +32,7 @@ steps:
   inputs:
     testSelector: 'testAssemblies'
     testAssemblyVer2: |
-      **\*Cifrador.MSTest*.dll
+      **\*Cifrado.MSTest*.dll
       !**\*TestAdapter.dll
       !**\obj\**
       !**\bin\**\ref\**
