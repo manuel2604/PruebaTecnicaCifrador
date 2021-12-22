@@ -32,7 +32,7 @@ steps:
   inputs:
     testSelector: 'testAssemblies'
     testAssemblyVer2: |
-      **\*MSTest*.dll
+      **\*.MSTest*.dll
       !**\*TestAdapter.dll
       !**\obj\**
       !**\bin\**\ref\**
