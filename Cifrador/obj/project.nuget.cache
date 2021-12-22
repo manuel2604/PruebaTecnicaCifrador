@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqH8BL1+l2RwFfKfWSOaWW20WT81O5udZkj7EJEQqBG4jofQ6kAyEZ/Y6BiaHX/57wt74ZidICzv8tw4V0Azpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desar\\Documents\\CapacitacionesOPI\\PruebaTecnicaCifrador\\PruebaTecnicaCifrador\\Cifrador\\Cifrador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desar\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\mongodb.driver\\2.14.1\\mongodb.driver.2.14.1.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\mongodb.driver.core\\2.14.1\\mongodb.driver.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\mongodb.libmongocrypt\\1.3.0\\mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
