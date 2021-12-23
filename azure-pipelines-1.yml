@@ -38,4 +38,4 @@ steps:
       !**\bin\**\ref\**
     diagnosticsEnabled: True
     codeCoverageEnabled: True
-    searchFolder: '$(build.artifactstagingdirectory)'
+    searchFolder: '$(System.DefaultWorkingDirectory)'
