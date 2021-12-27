@@ -32,10 +32,12 @@ steps:
   inputs:
     testSelector: 'testAssemblies'
     testAssemblyVer2: |
-      **\*.MSTest*.dll
+      **\*Cifrado.MSTest*.dll
       !**\*TestAdapter.dll
       !**\obj\**
       !**\bin\**\ref\**
     diagnosticsEnabled: True
     codeCoverageEnabled: True
+    platform: '$(BuildPlatform)'
+    configuration: '$(BuildConfiguration)'
     searchFolder: '$(Agent.BuildDirectory)'
